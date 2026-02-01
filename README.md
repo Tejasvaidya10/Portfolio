@@ -2,11 +2,11 @@
 
 A modern, responsive portfolio website showcasing my work as a Data Scientist and Full-Stack Developer.
 
-🔗 **Live Site:** [your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)
+**Live Site:** [your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)
 
 ![Portfolio Preview](assets/preview.png)
 
-## ✨ Features
+##  Features
 
 - **Responsive Design** - Looks great on mobile, tablet, and desktop
 - **Aurora Background** - Animated northern lights effect
@@ -14,7 +14,7 @@ A modern, responsive portfolio website showcasing my work as a Data Scientist an
 - **Modern Typography** - Sora + DM Sans font pairing
 - **Fast Loading** - Single HTML file, no frameworks needed
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - HTML5
 - CSS3 (Custom Properties, Flexbox, Grid)
@@ -22,7 +22,7 @@ A modern, responsive portfolio website showcasing my work as a Data Scientist an
 - Google Fonts
 - Deployed on Vercel
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 portfolio/
@@ -34,7 +34,7 @@ portfolio/
 └── README.md
 ```
 
-## 🚀 Deployment
+##  Deployment
 
 ### Vercel (Recommended)
 
@@ -55,13 +55,13 @@ git clone https://github.com/Tejasvaidya10/portfolio.git
 open index.html
 ```
 
-## 📬 Contact
+##  Contact
 
 - **Email:** vaidyatejas02@gmail.com
 - **LinkedIn:** [tejasvaidya1903](https://www.linkedin.com/in/tejasvaidya1903/)
 - **GitHub:** [Tejasvaidya10](https://github.com/Tejasvaidya10)
 
-## 📄 License
+##  License
 
 MIT License - feel free to use this as a template for your own portfolio!
 
