@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website showcasing my work as a Data Scientist and Full-Stack Developer.
 
-**Live Site:** [your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)
+**Live Site:** [portfolio-six-steel-67.vercel.app](https://portfolio-six-steel-67.vercel.app)
 
 ![Portfolio Preview](assets/preview.png)
 
